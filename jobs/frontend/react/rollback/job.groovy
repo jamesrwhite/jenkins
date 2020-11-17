@@ -1,4 +1,4 @@
-pipelineJob('frontend/frontend/react') {
+pipelineJob('frontend/react/rollback') {
     displayName('Rollback')
 
     definition {
