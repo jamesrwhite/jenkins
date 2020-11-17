@@ -12,7 +12,7 @@ pipelineJob('frontend/frontend/react') {
                 }
             }
 
-            scriptPath('jobs/frontend/react/rollback/Jenkinsfile)
+            scriptPath('jobs/frontend/react/rollback/Jenkinsfile')
         }
     }
 }
